@@ -6,9 +6,9 @@
 
 ## :family: 팀원 소개
 
-|        |        |        |        |        |        |        | ![](https://avatars.githubusercontent.com/u/55776650?v=4) |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | --------------------------------------------------------- |
-| 김태현 | 임경훈 | 양지훈 | 조성현 | 강동옥 | 정인수 | 박준영 | [성아영](https://github.com/Sungayoung)                   |
+| [![](https://avatars.githubusercontent.com/u/87456669?v=4)](https://github.com/xogxog) | [![](https://avatars.githubusercontent.com/u/87609664?v=4)](https://github.com/KyounghoonLim) | [![](https://avatars.githubusercontent.com/u/82459236?v=4)](https://github.com/kkobug) | [![](https://avatars.githubusercontent.com/u/87457031?v=4)](https://github.com/Sungtong1) | [![](https://avatars.githubusercontent.com/u/83068484?v=4)](https://github.com/okdongdong) | [![](https://avatars.githubusercontent.com/u/87456683?v=4)](https://github.com/Jeonginsus) | [![](https://avatars.githubusercontent.com/u/87454934?v=4)](https://github.com/JUNYOUNG31) | [![](https://avatars.githubusercontent.com/u/55776650?v=4)](https://github.com/Sungayoung) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|             [김태현](https://github.com/xogxog)              |          [임경훈](https://github.com/KyounghoonLim)          |             [양지훈](https://github.com/kkobug)              |            [조성현](https://github.com/Sungtong1)            |           [강동옥](https://github.com/okdongdong)            |           [정인수](https://github.com/Jeonginsus)            |           [박준영](https://github.com/JUNYOUNG31)            |           [성아영](https://github.com/Sungayoung)            |
 
 
 
