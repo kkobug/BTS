@@ -6,9 +6,9 @@
 
 ## :family: 팀원 소개
 
-|        |        |        |        |        |        |        |        |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 김태현 | 임경훈 | 양지훈 | 조성현 | 강동옥 | 정인수 | 박준영 | 성아영 |
+|        |        |        |        |        |        |        | ![](https://avatars.githubusercontent.com/u/55776650?v=4) |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | --------------------------------------------------------- |
+| 김태현 | 임경훈 | 양지훈 | 조성현 | 강동옥 | 정인수 | 박준영 | [성아영](https://github.com/Sungayoung)                   |
 
 
 
@@ -24,3 +24,5 @@
 | 06.21. (화) | 조성현 |                                                              |
 | 06.23. (목) | 강동옥 | [TDD](https://github.com/kkobug/BTS/tree/main/Programming/TDD/TDD.md) |
 | 06.23. (목) | 정인수 | [Vue, React_Lifcycle](https://github.com/kkobug/BTS/tree/main/FrontEnd/Vue%2C%20React%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4) |
+| 06.28. (화) | 박준영 |                                                              |
+| 06.28. (화) | 성아영 | [가상메모리 및 페이지 교체 알고리즘](https://github.com/kkobug/BTS/tree/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) |
