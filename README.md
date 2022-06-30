@@ -27,4 +27,4 @@
 | 06.28. (화) | 박준영 |                                                              |
 | 06.28. (화) | 성아영 | [가상메모리 및 페이지 교체 알고리즘](https://github.com/kkobug/BTS/tree/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) |
 | 06.30. (목) | 김태현 |                                                              |
-| 06.30. (목) | 임경훈 | [웹 저장소의 종류와 특징]()                                  |
+| 06.30. (목) | 임경훈 | [웹 저장소의 종류와 특징](https://github.com/kkobug/BTS/blob/main/FrontEnd/%EC%9B%B9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98%20%EC%A2%85%EB%A5%98%EC%99%80%20%ED%8A%B9%EC%A7%95/%EC%9B%B9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98%20%EC%A2%85%EB%A5%98%EC%99%80%20%ED%8A%B9%EC%A7%95.md) |
