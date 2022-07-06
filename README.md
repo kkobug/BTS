@@ -36,6 +36,6 @@
 | 날짜(요일)  | 발표자 | 발표 주제                                                    |
 | ----------- | ------ | ------------------------------------------------------------ |
 | 07.05. (화) | 양지훈 | [Docker](https://github.com/kkobug/BTS/tree/main/Programming/Docker(container%26vertualization)) |
-| 07.05. (화) | 조성현 | [npm vs yarn](                                               |
+| 07.05. (화) | 조성현 | [npm vs yarn](https://github.com/kkobug/BTS/blob/main/FrontEnd/npm%20VS%20yarn/npm%20VS%20yarn.md) |
 |             |        |                                                              |
 
