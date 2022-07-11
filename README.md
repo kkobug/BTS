@@ -37,5 +37,6 @@
 | ----------- | ------ | ------------------------------------------------------------ |
 | 07.05. (화) | 양지훈 | [Docker](https://github.com/kkobug/BTS/tree/main/Programming/Docker(container%26vertualization)) |
 | 07.05. (화) | 조성현 | [npm vs yarn](https://github.com/kkobug/BTS/blob/main/FrontEnd/npm%20VS%20yarn/npm%20VS%20yarn.md) |
-|             |        |                                                              |
+| 07.07. (목) | 강동옥 | [Login (Session & Token)](https://github.com/kkobug/BTS/tree/main/Web/Login/Login.md) |
+| 07.07. (목) | 정인수 | www.google.com을 입력하면 어떤 일이 일어날까?                |
 
