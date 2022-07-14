@@ -41,7 +41,7 @@
 | 07.07. (목) | 정인수 | [www.google.com을 입력하면 어떤 일이 일어날까?](https://github.com/kkobug/BTS/blob/main/browser/www.google.com%EC%9D%84%20%EA%B2%80%EC%83%89%ED%95%A0%20%EB%95%8C/www%20google%20com%EC%9D%84%20%EA%B2%80%EC%83%89%ED%96%88%EC%9D%84%EB%95%8C%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC%20c78116766290495a8231f4d478b6dffa.md) |
 | 07.12. (화) | 박준영 |                                                              |
 | 07.12. (화) | 성아영 |                                                              |
-| 07.14. (목) | 김태현 | [HTTP & HTTPS]()                                             |
+| 07.14. (목) | 김태현 | [HTTP & HTTPS](https://github.com/kkobug/BTS/blob/main/Network/HTTP%EC%99%80%20HTTPS/HTTP%EC%99%80%20HTTPS.pdf) |
 | 07.14. (목) | 임경훈 |                                                              |
 | 07.19. (화) |        |                                                              |
 | 07.19. (화) |        |                                                              |
