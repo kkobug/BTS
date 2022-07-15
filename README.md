@@ -39,7 +39,7 @@
 | 07.05. (화) | 조성현 | [npm vs yarn](https://github.com/kkobug/BTS/blob/main/FrontEnd/npm%20VS%20yarn/npm%20VS%20yarn.md) |
 | 07.07. (목) | 강동옥 | [Login (Session & Token)](https://github.com/kkobug/BTS/tree/main/Web/Login/Login.md) |
 | 07.07. (목) | 정인수 | [www.google.com을 입력하면 어떤 일이 일어날까?](https://github.com/kkobug/BTS/blob/main/browser/www.google.com%EC%9D%84%20%EA%B2%80%EC%83%89%ED%95%A0%20%EB%95%8C/www%20google%20com%EC%9D%84%20%EA%B2%80%EC%83%89%ED%96%88%EC%9D%84%EB%95%8C%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC%20c78116766290495a8231f4d478b6dffa.md) |
-| 07.12. (화) | 박준영 | [TCP UDP](Network/TCP UDP/TCP  UDP.md)                                                             |
+| 07.12. (화) | 박준영 | [TCP UDP](https://github.com/kkobug/BTS/blob/main/Network/TCP UDP/TCP  UDP.md)                                                             |
 | 07.12. (화) | 성아영 |                                                              |
 | 07.14. (목) | 김태현 | [HTTP & HTTPS](https://github.com/kkobug/BTS/blob/main/Network/HTTP%EC%99%80%20HTTPS/HTTP%EC%99%80%20HTTPS.pdf) |
 | 07.14. (목) | 임경훈 | [WebSocket은 어떻게 실시간 통신을 할까](https://github.com/kkobug/BTS/blob/main/Network/WebSocket%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%ED%95%A0%EA%B9%8C/WebSocket%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%ED%95%A0%EA%B9%8C.md) |
