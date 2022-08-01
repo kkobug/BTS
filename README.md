@@ -43,8 +43,12 @@
 | 07.12. (화) | 성아영 | [OSI 7 Layer](https://github.com/kkobug/BTS/tree/main/Network/OSI%207%20Layer) |
 | 07.14. (목) | 김태현 | [HTTP & HTTPS](https://github.com/kkobug/BTS/blob/main/Network/HTTP%EC%99%80%20HTTPS/HTTP%EC%99%80%20HTTPS.pdf) |
 | 07.14. (목) | 임경훈 | [WebSocket은 어떻게 실시간 통신을 할까](https://github.com/kkobug/BTS/blob/main/Network/WebSocket%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%ED%95%A0%EA%B9%8C/WebSocket%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%ED%95%A0%EA%B9%8C.md) |
-| 07.19. (화) |        |                                                              |
-| 07.19. (화) |        |                                                              |
-| 07.21. (목) |        |                                                              |
-| 07.21. (목) |        |                                                              |
+| 07.19. (화) | 양지훈 | [Cache](https://github.com/kkobug/BTS/tree/main/Computer%20Science/Cache) |
+| 07.19. (화) | 조성현 | [FinTech](https://github.com/kkobug/BTS/tree/main/Tech/FinTech) |
+| 07.21. (목) | 강동옥 | [DeadLock](https://github.com/kkobug/BTS/tree/main/OperatingSystem/DeadLock/DeadLock.md) |
+| 07.21. (목) | 정인수 | [Garbige Collection](https://github.com/kkobug/BTS/blob/main/Computer%20Science/Garbige%20Collection/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%EC%85%98%20ead037a21e3c46cd8bf277ca7e997bbe.md) |
+| 07.26. (화) |        |                                                              |
+| 07.26. (화) |        |                                                              |
+| 07.28. (목) |        |                                                              |
+| 07.28. (목) |        |                                                              |
 
