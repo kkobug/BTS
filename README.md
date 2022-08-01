@@ -49,6 +49,6 @@
 | 07.21. (목) | 정인수 | [Garbige Collection](https://github.com/kkobug/BTS/blob/main/Computer%20Science/Garbige%20Collection/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%EC%85%98%20ead037a21e3c46cd8bf277ca7e997bbe.md) |
 | 07.26. (화) | 박준영 |                                                              |
 | 07.26. (화) | 성아영 | [WebRTC](https://github.com/kkobug/BTS/blob/main/Network/WebRTC/WebRTC%20(Web%20Real-Time%20Communication).md) |
-| 07.28. (목) | 김태현 | [트랜잭션 / 트랜잭션 격리 수준]()                            |
+| 07.28. (목) | 김태현 | [트랜잭션 / 트랜잭션 격리 수준](https://github.com/kkobug/BTS/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80.pdf) |
 | 07.28. (목) | 임경훈 |                                                              |
 
