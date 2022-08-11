@@ -19,7 +19,7 @@
 
 >  **Singalling을 통해 한번 연결되고 나면 데이터를 주고받을 때 추가적인 서버가 필요없음**
 
-![image-20220726165123445](WebRTC (Web Real-Time Communication).assets/image-20220726165123445.png)
+![image-20220726165123445](https://user-images.githubusercontent.com/55776650/184129967-70e60b90-7239-46f3-acc8-435b9a878098.png)
 
 
 
@@ -45,7 +45,7 @@
 
 ​	NAT 트래버셜 작업이 **STUN** 서버에 의해 이루어진다. 클라이언트가 STUN 서버에 요청을 보내면 공인 IP 주소와 함께 통신에 필요한 정보들을 보내주는데 클라이언트는 이를 이용해 다른 기기와 통신한다. 하지만 이런 경우에도 통신이 되지 않는다면 TURN 서버로 넘기게 된다.
 
-	#### TURN (Traversal Using Relays around NAT)
+#### TURN (Traversal Using Relays around NAT)
 
 ![img](https://velog.velcdn.com/images%2Fheejinkim0812%2Fpost%2F768e918a-b7e3-4899-8077-ab2f03b886c1%2Fimage.png)
 
