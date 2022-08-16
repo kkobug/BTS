@@ -66,4 +66,4 @@
 | 08.09. (화) | 성아영 | [CPU Scheduling](https://github.com/kkobug/BTS/blob/main/OperatingSystem/CPU%20Scheduling/CPU%20Scheduling.md) |
 | 08.11. (목) | 김태현 |                                                              |
 | 08.11. (목) | 임경훈 | [정규식](https://github.com/kkobug/BTS/tree/main/Programming/정규식.md) |
-|             |        |                                                              |
+| 08.16. (화) | 양지훈 | [Scale-out](https://github.com/kkobug/BTS/tree/main/Programming/Scale-out) |
