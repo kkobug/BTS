@@ -18,7 +18,7 @@
 
 | 날짜 (요일) | 발표자 | 발표 주제                                                    |
 | ----------- | ------ | ------------------------------------------------------------ |
-| 06.16. (목) | 김태현 | [SQL vs NoSQL](https://github.com/kkobug/BTS/blob/main/DataBase/SQL_NoSQL.md) |
+| 06.16. (목) | 김태현 | [SQL vs NoSQL](https://github.com/kkobug/BTS/blob/main/DataBase/SQL과NoSQL/SQL_NoSQL.md) |
 | 06.16. (목) | 임경훈 | [웹 애니메이션 최적화](https://github.com/kkobug/BTS/blob/main/FrontEnd/%EC%9B%B9%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%B5%9C%EC%A0%81%ED%99%94/%EC%9B%B9%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%B5%9C%EC%A0%81%ED%99%94.md) |
 | 06.21. (화) | 양지훈 | [OOP](https://github.com/kkobug/BTS/tree/main/Programming/OOP) |
 | 06.21. (화) | 조성현 | [동기&비동기&블럭킹&논블럭킹](https://github.com/kkobug/BTS/blob/main/FrontEnd/%EB%8F%99%EA%B8%B0%20%26%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EB%B8%94%EB%9F%AD%ED%82%B9%20%26%20%EB%85%BC%EB%B8%94%EB%9F%AD%ED%82%B9/%EB%8F%99%EA%B8%B0vs%20%EB%B9%84%EB%8F%99%EA%B8%B0.md) |
@@ -64,6 +64,6 @@
 | 08.04. (목) | 정인수 | [REST](https://github.com/kkobug/BTS/blob/main/Network/REST/REST.md) |
 | 08.09. (화) | 박준영 | [Hoisting](https://github.com/kkobug/BTS/blob/4f82780bd17351e24883a8de13991994dc1f697c/FrontEnd/Hoisting/Hoisting.md) |
 | 08.09. (화) | 성아영 | [CPU Scheduling](https://github.com/kkobug/BTS/blob/main/OperatingSystem/CPU%20Scheduling/CPU%20Scheduling.md) |
-| 08.11. (목) | 김태현 |                                                              |
+| 08.11. (목) | 김태현 | [정규화](https://github.com/kkobug/BTS/blob/main/DataBase/정규화/정규화.pdf) |
 | 08.11. (목) | 임경훈 | [정규식](https://github.com/kkobug/BTS/tree/main/Programming/정규식.md) |
 | 08.16. (화) | 양지훈 | [Scale-out](https://github.com/kkobug/BTS/tree/main/Programming/Scale-out) |
