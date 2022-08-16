@@ -62,8 +62,8 @@
 | 08.04. (목) | 조성현 |                                                              |
 | 08.04. (목) | 강동옥 | [Hash](https://github.com/kkobug/BTS/tree/main/Computer%20Science/Hash) |
 | 08.04. (목) | 정인수 | [REST](https://github.com/kkobug/BTS/blob/main/Network/REST/REST.md) |
-| 08.09. (화) | 박준영 | [Hoisting](https://github.com/kkobug/BTS/blob/4f82780bd17351e24883a8de13991994dc1f697c/FrontEnd/Hoisting/Hoisting.md)                                                     |
+| 08.09. (화) | 박준영 | [Hoisting](https://github.com/kkobug/BTS/blob/4f82780bd17351e24883a8de13991994dc1f697c/FrontEnd/Hoisting/Hoisting.md) |
 | 08.09. (화) | 성아영 | [CPU Scheduling](https://github.com/kkobug/BTS/blob/main/OperatingSystem/CPU%20Scheduling/CPU%20Scheduling.md) |
 | 08.11. (목) | 김태현 |                                                              |
-| 08.11. (목) | 임경훈 |                                                              |
+| 08.11. (목) | 임경훈 | [정규식](https://github.com/kkobug/BTS/tree/main/Programming/정규식.md) |
 |             |        |                                                              |
