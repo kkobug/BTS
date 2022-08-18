@@ -67,6 +67,6 @@
 | 08.11. (목) | 김태현 | [정규화](https://github.com/kkobug/BTS/blob/main/DataBase/정규화/정규화.pdf) |
 | 08.11. (목) | 임경훈 | [정규식](https://github.com/kkobug/BTS/tree/main/Programming/정규식.md) |
 | 08.16. (화) | 양지훈 | [Scale-out](https://github.com/kkobug/BTS/tree/main/Programming/Scale-out) |
-| 08.16. (화) | 성아영 |                                                              |
-| 08.18. (목) | 강동옥 |                                                              |
+| 08.16. (화) | 조성현 |                                                              |
+| 08.18. (목) | 강동옥 | [GraphQL](https://github.com/kkobug/BTS/blob/main/Language/GraphQL/GraphQL.md) |
 | 08.18. (목) | 정인수 |                                                              |
