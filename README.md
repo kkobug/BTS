@@ -70,3 +70,4 @@
 | 08.16. (화) | 조성현 |                                                              |
 | 08.18. (목) | 강동옥 | [GraphQL](https://github.com/kkobug/BTS/blob/main/Language/GraphQL/GraphQL.md) |
 | 08.18. (목) | 정인수 |                                                              |
+| 08.30. (화) | 양지훈 | [Gradle](https://github.com/kkobug/BTS/tree/main/BackEnd/Gradle) |
