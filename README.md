@@ -78,7 +78,7 @@
 
 | 날짜(요일) | 발표자 | 발표 주제                                                    |
 | ---------- | ------ | ------------------------------------------------------------ |
-| 09.01(목)  | 강동옥 |                                                              |
+| 09.01(목)  | 강동옥 | [Redux](https://github.com/kkobug/BTS/blob/main/FrontEnd/Redux/Redux.md) |
 | 09.06(화)  | 박준영 |                                                              |
 | 09.06(화)  | 김태현 | [Index](https://github.com/kkobug/BTS/blob/main/DataBase/Index/Index.pdf) |
 | 09.06(화)  | 정인수 |                                                              |
