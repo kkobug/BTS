@@ -59,7 +59,7 @@
 | 날짜(요일)  | 발표자 | 발표 주제                                                    |
 | ----------- | ------ | ------------------------------------------------------------ |
 | 08.02. (화) | 양지훈 | [자료구조](https://github.com/kkobug/BTS/tree/main/Computer%20Science/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
-| 08.04. (목) | 조성현 |                                                              |
+| 08.04. (목) | 조성현 | [결합도 & 응집도](https://github.com/kkobug/BTS/tree/main/Computer%20Science/%EC%9D%91%EC%A7%91%EB%8F%84%20vs%20%EA%B2%B0%ED%95%A9%EB%8F%84/%EB%AA%A8%EB%93%88) |
 | 08.04. (목) | 강동옥 | [Hash](https://github.com/kkobug/BTS/tree/main/Computer%20Science/Hash) |
 | 08.04. (목) | 정인수 | [REST](https://github.com/kkobug/BTS/blob/main/Network/REST/REST.md) |
 | 08.09. (화) | 박준영 | [Hoisting](https://github.com/kkobug/BTS/blob/4f82780bd17351e24883a8de13991994dc1f697c/FrontEnd/Hoisting/Hoisting.md) |
@@ -67,7 +67,7 @@
 | 08.11. (목) | 김태현 | [정규화](https://github.com/kkobug/BTS/blob/main/DataBase/정규화/정규화.pdf) |
 | 08.11. (목) | 임경훈 | [정규식](https://github.com/kkobug/BTS/tree/main/Programming/정규식.md) |
 | 08.16. (화) | 양지훈 | [Scale-out](https://github.com/kkobug/BTS/tree/main/Programming/Scale-out) |
-| 08.16. (화) | 조성현 |                                                              |
+| 08.16. (화) | 조성현 | [TypeScript](https://github.com/kkobug/BTS/tree/main/FrontEnd/TypeScript) |
 | 08.18. (목) | 강동옥 | [GraphQL](https://github.com/kkobug/BTS/blob/main/Language/GraphQL/GraphQL.md) |
 | 08.18. (목) | 정인수 |                                                              |
 | 08.23. (화) | 박준영 | [Ajax, Axios, fetch](https://github.com/kkobug/BTS/blob/dd5126cbb07b01bb7bc8718132e42390abc36a32/FrontEnd/Ajax,%20Axios,%20fetch/Ajax,%20Axios,%20fetch.md) |
