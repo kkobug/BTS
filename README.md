@@ -70,6 +70,7 @@
 | 08.16. (화) | 조성현 |                                                              |
 | 08.18. (목) | 강동옥 | [GraphQL](https://github.com/kkobug/BTS/blob/main/Language/GraphQL/GraphQL.md) |
 | 08.18. (목) | 정인수 |                                                              |
+| 08.23. (화) | 박준영 | [Ajax, Axios, fetch](https://github.com/kkobug/BTS/blob/main/FrontEnd/Ajax, Axios, fetch/Ajax, Axios, fetch.md) |
 | 08.30. (화) | 양지훈 | [Gradle](https://github.com/kkobug/BTS/tree/main/BackEnd/Gradle) |
 
 
@@ -79,7 +80,7 @@
 | 날짜(요일) | 발표자 | 발표 주제                                                    |
 | ---------- | ------ | ------------------------------------------------------------ |
 | 09.01(목)  | 강동옥 | [Redux](https://github.com/kkobug/BTS/blob/main/FrontEnd/Redux/Redux.md) |
-| 09.06(화)  | 박준영 |                                                              |
+| 09.06(화)  | 박준영 | [UI UX](https://github.com/kkobug/BTS/blob/main/FrontEnd/UI UX/UI UX.md) |
 | 09.06(화)  | 김태현 | [Index](https://github.com/kkobug/BTS/blob/main/DataBase/Index/Index.pdf) |
 | 09.06(화)  | 정인수 |                                                              |
 
