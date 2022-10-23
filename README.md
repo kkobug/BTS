@@ -86,4 +86,5 @@
 | 09.15(목)  | 양지훈 | [Stream](https://github.com/kkobug/BTS/tree/main/BackEnd/Stream) |
 | 09.15(목)  | 조성현 |                                                              |
 | 09.15(목)  | 강동옥 |                                                              |
+| 09.29(목)  | 양지훈 | [CI/CD](https://github.com/kkobug/BTS/tree/main/Programming/CICD) |
 
